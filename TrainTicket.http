@@ -1,0 +1,6 @@
+@TrainTicket_HostAddress = http://localhost:5043
+
+GET {{TrainTicket_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
